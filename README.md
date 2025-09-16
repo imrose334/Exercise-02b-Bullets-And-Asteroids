@@ -17,4 +17,5 @@ None
 None
 
 ## Created by
-Nathan Mishler
+Izzy Rose
+imrose334
